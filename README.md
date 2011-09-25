@@ -1,4 +1,5 @@
-$ ruby cgmaps.rb 
+<pre>
+$ ruby cgmaps.rb
 Downloading map
 Reading map
 Searching special markers on map
@@ -7,7 +8,6 @@ Drawing a coordinate on the map .. e.g. Berlin
 Saving as temporary jpg
 Displaying ASCII map
 
-<pre>
 ''''''''''''''''''''''.    ..   .'.    .'''.''''''.'''''''''''
 ''''''''''''''''''''''.    .... .'... ..'''''''''...''''''''''
 '''''''''''''''''''''...    .'.... .  .'''''''''''''''''''''..
